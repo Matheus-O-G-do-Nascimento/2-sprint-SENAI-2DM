@@ -1,6 +1,0 @@
-C:\Users\M43590-00\source\repos\Rental\obj\Debug\net5.0\Rental.csproj.AssemblyReference.cache
-C:\Users\M43590-00\source\repos\Rental\obj\Debug\net5.0\Rental.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\M43590-00\source\repos\Rental\obj\Debug\net5.0\Rental.AssemblyInfoInputs.cache
-C:\Users\M43590-00\source\repos\Rental\obj\Debug\net5.0\Rental.AssemblyInfo.cs
-C:\Users\M43590-00\source\repos\Rental\obj\Debug\net5.0\Rental.csproj.CoreCompileInputs.cache
-C:\Users\M43590-00\source\repos\Rental\obj\Debug\net5.0\Rental.MvcApplicationPartsAssemblyInfo.cache
